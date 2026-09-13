@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "badge": "Popular",
+    "name": "React",
+    "category": "Frontend",
+    "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
+    "icon": "https://cdn.simpleicons.org/react",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly"
+  },
+  {
+    "id": 2,
+    "badge": "Versatile",
+    "name": "Vue.js",
+    "category": "Frontend",
+    "description": "An approachable, performant, and versatile framework for building web user interfaces.",
+    "icon": "https://cdn.simpleicons.org/vuedotjs",
+    "rating": 4.7,
+    "difficulty": "Beginner-Friendly"
+  },
+  {
+    "id": 3,
+    "badge": "Fast",
+    "name": "Svelte",
+    "category": "Frontend",
+    "description": "Cybernetically enhanced web apps with compile-time reactivity and zero virtual DOM overhead.",
+    "icon": "https://cdn.simpleicons.org/svelte",
+    "rating": 4.6,
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 4,
+    "badge": "Popular",
+    "name": "Next.js",
+    "category": "Frontend",
+    "description": "The React framework for full-stack web applications with hybrid static & server rendering.",
+    "icon": "https://cdn.simpleicons.org/nextdotjs",
+    "rating": 4.9,
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 5,
+    "badge": "Versatile",
+    "name": "Node.js",
+    "category": "Backend",
+    "description": "An asynchronous event-driven JavaScript runtime built on Chrome's V8 engine.",
+    "icon": "https://cdn.simpleicons.org/nodedotjs",
+    "rating": 4.8,
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 6,
+    "badge": "TopSQL",
+    "name": "PostgreSQL",
+    "category": "Database",
+    "description": "A powerful open-source relational database known for reliability and advanced SQL features.",
+    "icon": "https://cdn.simpleicons.org/postgresql",
+    "rating": 4.9,
+    "difficulty": "Database"
+  },
+  {
+    "id": 7,
+    "badge": "Cache",
+    "name": "Redis",
+    "category": "Database",
+    "description": "An in-memory data store commonly used for caching, sessions, queues, and real-time applications.",
+    "icon": "https://cdn.simpleicons.org/redis",
+    "rating": 4.7,
+    "difficulty": "Database"
+  },
+  {
+    "id": 8,
+    "badge": "Ubiquitous",
+    "name": "JavaScript",
+    "category": "Language",
+    "description": "A versatile programming language used for frontend, backend, and full-stack web development.",
+    "icon": "https://cdn.simpleicons.org/javascript",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly"
+  },
+  {
+    "id": 9,
+    "badge": "Popular",
+    "name": "TypeScript",
+    "category": "Language",
+    "description": "A strongly typed superset of JavaScript that helps developers build safer and scalable applications.",
+    "icon": "https://cdn.simpleicons.org/typescript",
+    "rating": 4.9,
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 10,
+    "badge": "Popular",
+    "name": "Tailwind CSS",
+    "category": "Styling",
+    "description": "A utility-first CSS framework for rapidly building modern and responsive user interfaces.",
+    "icon": "https://cdn.simpleicons.org/tailwindcss",
+    "rating": 4.8,
+    "difficulty": "Beginner-Friendly"
+  },
+  {
+    "id": 11,
+    "badge": "Fast",
+    "name": "Docker",
+    "category": "DevOps",
+    "description": "A platform for packaging applications and their dependencies into portable containers.",
+    "icon": "https://cdn.simpleicons.org/docker",
+    "rating": 4.8,
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 12,
+    "badge": "Ubiquitous",
+    "name": "Git",
+    "category": "DevOps",
+    "description": "A distributed version control system used to track code changes and collaborate with developers.",
+    "icon": "https://cdn.simpleicons.org/git",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly"
+  }
+]
